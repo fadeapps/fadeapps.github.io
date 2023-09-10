@@ -239,3 +239,5 @@ pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 smartadserver.com, 3713, RESELLER
 adingo.jp, 29387, RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
