@@ -1,4 +1,4 @@
-#Updated 22nd September 2023
+#Updated 9th April 2026
 #Appodeal
 appodeal.com, 130841, DIRECT
 #BidMachine
@@ -737,6 +737,7 @@ vidoomy.com,6858194,RESELLER
 vidoomy.com,9148331,RESELLER
 visiblemeasures.com,1018,RESELLER
 vungle.com,561e8d956b8d90f61a003219,RESELLER,c107d686becd2d77
+vungle.com, 69d7ea6e0e0891e59aa20cf4, DIRECT, c107d686becd2d77
 webeyemob.com,70098,RESELLER
 webeyemob.com,70101,RESELLER
 webeyemob.com,70104,RESELLER
