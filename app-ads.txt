@@ -5,7 +5,7 @@ appodeal.com, 130841, DIRECT
 bidmachine.io, 130841, DIRECT
 #AdMob
 #Replace the Publisher_ID below with your Admob Publisher ID
-google.com, pub-2537098519535118, DIRECT, f08c47fec0942fa0
+google.com,pub-2537098519535118,DIRECT,f08c47fec0942fa0
 
 #Resellers
 152media.info,152M5,RESELLER
@@ -113,7 +113,6 @@ auxoads.com,90217,RESELLER
 auxoads.com,90218,RESELLER
 auxoads.com,90219,RESELLER
 axonix.com,55724,RESELLER,bc385f2b4a87b721
-axonix.com,56222,RESELLER,bc385f2b4a87b721
 axonix.com,56222,RESELLER,bc385f2b4a87b721
 axonix.com,57264,RESELLER,bc385f2b4a87b721
 axonix.com,57311,RESELLER,bc385f2b4a87b721
@@ -589,7 +588,7 @@ sharethrough.com,UPD4WJlm,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,ZqrIAHsE,RESELLER,d53b998a7bd4ecd2
 silvermob.com,357,RESELLER
 silvermob.com,419,RESELLER
-singularads,895023,RESELLER
+singularads.com,895023,RESELLER
 smaato.com,1100004890,RESELLER,07bcf65f187117b4
 smaato.com,1100040398,RESELLER,07bcf65f187117b4
 smaato.com,1100044045,RESELLER,07bcf65f187117b4
@@ -700,7 +699,7 @@ uis.mobfox.com,1750,RESELLER,5529a3d1f59865be
 undertone.com,4108,RESELLER
 unity.com,1004715,RESELLER,96cabb5fbdde37a7
 unrulymedia.com,831638248788941126,RESELLER
-unrulymedia.com.com,3218195319,RESELLER,89ff185a4c4e857c
+video.unrulymedia.com,3218195319,RESELLER,89ff185a4c4e857c
 verve.com,14619,RESELLER,0c8f5958fc2d6270
 verve.com,15290,RESELLER,0c8f5958fc2d6270
 verve.com,15503,RESELLER,0c8f5958fc2d6270
@@ -710,7 +709,6 @@ video.unrulymedia.com,2564526802,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,2613193077,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,2979066401945419350,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,3169196794,RESELLER,6f752381ad5ec0e5
-video.unrulymedia.com,3218195319,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,3383599585,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,3383599585,RESELLER,a670c89d4a324e47
 video.unrulymedia.com,3630748062,RESELLER,a670c89d4a324e47
@@ -737,7 +735,7 @@ vidoomy.com,6858194,RESELLER
 vidoomy.com,9148331,RESELLER
 visiblemeasures.com,1018,RESELLER
 vungle.com,561e8d956b8d90f61a003219,RESELLER,c107d686becd2d77
-vungle.com, 69d7ea6e0e0891e59aa20cf4, DIRECT, c107d686becd2d77
+vungle.com,69d7ea6e0e0891e59aa20cf4,DIRECT,c107d686becd2d77
 webeyemob.com,70098,RESELLER
 webeyemob.com,70101,RESELLER
 webeyemob.com,70104,RESELLER
