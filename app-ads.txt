@@ -1,3 +1,4 @@
+
 #Updated 31.03.2026
 
 #Appodeal
@@ -14,7 +15,7 @@ bidmachine.io,466,DIRECT
 
 #Replace the Publisher_ID below with your Admob Publisher ID
 
-google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-2537098519535118, DIRECT, f08c47fec0942fa0
 
 #Meta-Audience
 
@@ -23,6 +24,8 @@ google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
 facebook.com,Business_ID,RESELLER,c3e20eee3f780d68
 
 #Add other networks if applicable
+
+
 
 #Resellers
 
@@ -5005,6 +5008,7 @@ zmaticoo.com,5135302,RESELLER
 zmaticoo.com,5135535,RESELLER
 
 zoomd.com,88478941,RESELLER
+
 
 #start.io
 
